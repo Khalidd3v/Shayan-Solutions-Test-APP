@@ -8,7 +8,7 @@ This Django project allows you to manage products through a RESTful API and an a
 1. **Clone the repository:**
    ```
    git clone https://github.com/Khalidd3v/Shayan-Solutions-Test-APP
-   cd myproject
+   cd shayan_project
    ```
 
 2. **Install dependencies:**
