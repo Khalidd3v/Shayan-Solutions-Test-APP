@@ -1,0 +1,5 @@
+api/__pycache__/
+api/migrations/__pycache__/
+shayan_project/__pycache__/
+db.sqlite3
+.DS_Store
